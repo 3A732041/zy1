@@ -8,5 +8,10 @@
             "email": "asdfg10510588@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/demo"
+        }
+    }
 }
