@@ -1,0 +1,12 @@
+{
+    "name": "zhenyu/zy",
+    "description": "autoload classes",
+    "license": "0.0.1",
+    "authors": [
+        {
+            "name": "zhenyu",
+            "email": "asdfg10510588@gmail.com"
+        }
+    ],
+    "require": {}
+}
